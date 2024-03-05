@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_tab1"
+        android:title="Home"/>
+    <item android:id="@+id/menu_tab2"
+        android:title="Categories"/>
+    <item android:id="@+id/menu_tab3"
+        android:title="Daily"/>
+    <item android:id="@+id/menu_tab4"
+        android:title="Cart"/>
+    <item android:id="@+id/menu_tab5"
+        android:title="Profile"/>
+</menu>
